@@ -1,0 +1,254 @@
+@media (max-width: 1850px){
+	.cooper-box {
+    	width: 270px;
+	}
+}
+@media (max-width: 1400px){
+	.cooper-box {
+	    width: 260px;
+	}
+}
+@media (max-width: 1381px){
+	.cooper-box {
+	    width: 48%;
+	}
+}
+@media (max-width: 1500px) {
+	.baner-area {
+		padding: 40px 0;
+	}
+}
+@media (max-width: 1200px){
+	.ccar-image img{
+		width: 110%;
+	}
+	.baner-area {
+	    background: linear-gradient(rgba(32, 173, 180, 1), rgba(20, 143, 149, 1));
+	}
+	.baner-area:after {
+	    height: 100%;
+	}
+	.baner-text p {
+	    font-size: 15px;
+	}
+	.choose-img img{
+		width: 90%;
+	}
+	.cooper-box {
+	    margin-left:0;
+	}
+	.cooper-text p {
+	    font-size: 13px;
+	}
+	.copper-box-wrap.margin-left {
+    	margin-left: 50px;
+	}
+}
+@media (max-width: 1199px) {
+	.baner-text h2 {
+	    font-size: 36px;
+	}
+	.baner-area {
+	    padding: 140px 0;
+	}
+	.section-text h2 {
+	    font-size: 32px;
+	    line-height: 40px;
+	}
+	.choose-img {
+	    left: -190px;
+	}
+	.life-text h2 {
+	    font-size: 30px;
+	    line-height: 40.5px;
+	}
+	.life-text p{
+		font-size: 15px;
+	}
+	.services-text p {
+	    font-size: 14px;
+	}
+	.choose-img img{
+		width: 90%;
+	}
+	.choose-img {
+    	left: -115px;
+	}
+}
+@media (max-width: 1024px){
+	.choose-img img {
+    	width: 100%;
+    	margin-top: 30px;
+	}
+	.choose-img {
+    	left: 29px;
+	}
+}
+@media (max-width: 991px){
+	.hader-menu ul li {
+	    padding: 0px 10px;
+	}
+	.singel-menu a {
+	    padding: 10px 10px;
+	    font-size: 13px;
+	}
+	.baner-text h2 {
+    	font-size: 29px;
+    	line-height: 45px;
+	}
+	.baner-text p {
+	    font-size: 12px;
+	    line-height: 24px;
+	}
+	.baner-area {
+    	padding: 76px 0;
+	}
+	.section-text h2 {
+	    font-size: 24px;
+	    line-height: 35px;
+	}
+	.head-btn a {
+    	margin-left: 60px;
+	}
+	.services-text h4 {
+	    font-size: 18px;
+	}
+	.services-box {
+    	margin-top: 30px;
+	}
+	.choose-img img{
+		display: none;
+	}
+	.team-padding{
+		text-align: center;
+	}
+	.testimonial-right-area {
+	    width: 100%;
+	    position: inherit;
+	    padding: 0 15px;
+	    right: 0;
+	}
+	.copper-box-wrap.margin-left {
+    	margin-left: 0px;
+	}
+	.copy-tetx p {
+	    font-size: 13px;
+	}
+}
+@media (max-width: 767px){
+	.baner-image img {
+	    display: none;
+	}
+	.baner-text h2 {
+	    font-size: 26px;
+	    line-height: 40px;
+	}
+	.win-box{
+		margin-bottom: 30px;
+	}
+	.section-text h2 {
+	    font-size: 22px;
+	    line-height: 30px;
+	}
+	.silider-area {
+    	margin-bottom: 70px;
+	}
+	.about-us {
+    	margin-bottom: 70px;
+	}
+	.maine-section {
+	    padding: 70px 0px;
+	}
+	.choose-area {
+	    margin-bottom: 70px;
+	}
+	.our-team {
+    	margin-bottom: 70px;
+	}
+	.testimonial-area {
+	    padding: 70px 0px;
+	}
+	.testimonial-btn{
+		margin-bottom: 30px;
+	}
+	.life-text p {
+	    font-size: 11px;
+	}
+	.life-text h2 {
+	    font-size: 26px;
+	    line-height: 40.5px;
+	}
+}
+@media (max-width: 480px){
+	.baner-text h2 {
+	    font-size: 24px;
+	    line-height: 40px;
+	}
+	.section-text h2 {
+	    font-size: 20px;
+	    line-height: 30px;
+	}
+	.life-text p {
+    	font-size: 13px;
+    	line-height: 23px;
+    	width: 70%;
+	}
+	.footer-logo {
+    	margin-bottom: 20px;
+	}
+	.about-us {
+	    text-align: center;
+	}
+	.win-icnon img {
+	    float: none;
+	    margin-top: 10px;
+	    margin: auto;
+	}
+	.maine-section {
+	    text-align: center;
+	}
+	.head-btn a {
+    	margin-left: 0px;
+	}
+	.testimonial-area {
+	    text-align: center;
+	}
+	.ccar-image img {
+    	width: 100%;
+	}
+	.cooper-box {
+	    width: 100%;
+	}
+	.life-text h2{
+		font-size: 23px;
+		line-height: 30.5px;
+	}
+	.life-btn a {
+	    padding: 9px 10px;
+	}
+}
+@media (max-width: 375px){
+	.life-text h2 {
+    	font-size: 15px;
+    	line-height: 23.5px;
+	}
+	.life-text p {
+    	font-size: 12px;
+    	line-height: 19px;
+    	width: 90%;
+	}
+	.copy-tetx p {
+	    font-size: 10px;
+	}
+	.copy-icon a {
+	    font-size: 10px;
+	}
+}
+@media (max-width: 320px){
+	.card-header button p {
+	    font-size: 14px;
+	}
+	.life-btn a {
+	    padding: 9px 15px;
+	}
+}
