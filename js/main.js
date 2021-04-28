@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	$(".brand-slider.owl-carousel").owlCarousel({
-	  	items: 4,
+	  	items: 3,
 	  	margin: 30,
 	  	loop: true,
 	  	nav: true,
