@@ -93,21 +93,23 @@ body {
 }
 
 .baner-text h2 {
-    font-size: 44px;
+    font-size: 54px;
     font-weight: 600;
-    line-height: 54px;
-    margin-bottom: 20px;
-    width: 95%;
+    line-height: 64px;
+    margin-bottom: 50px;
+    width: 80%;
     color: #fff;
+    text-shadow: 0 0 10px rgba(99, 99, 99, 0.3);
 }
 
 .baner-text p {
-    font-size: 24px;
+    font-size: 32px;
     line-height: 34px;
     font-weight: normal;
     color: #fff;
-    margin-bottom: 30px;
-    width: 95%;
+    margin-bottom: 50px;
+    width: 75%;
+    text-shadow: 0 0 10px rgba(99, 99, 99, 0.3);
 }
 
 .started-btn a {
@@ -128,16 +130,22 @@ body {
 }
 
 .baner-area {
-    position: relative;
-    z-index: 1;
-    padding: 140px 0;
-    margin-bottom: 70px;
+
+
+    padding: 160px 0;
+    margin-bottom: 20px;
+    background: url(images/baner.png) no-repeat center center;
+    background-color: #20ADB4;
+    background-size: cover;
+
 }
+
+/*
 
 .baner-area:after {
     position: absolute;
     content: '';
-    width: 50%;
+    width: 90%;
     background: linear-gradient(rgba(32, 173, 180, 1), rgba(20, 143, 149, 1));
     height: 100%;
     left: 100px;
@@ -146,6 +154,7 @@ body {
     z-index: -1;
 
 }
+*/
 
 .baner-image img {
     position: absolute;
@@ -911,7 +920,7 @@ body {
 }
 
 .online_school_course_list_wrap {
-  
+
     padding: 80px 0;
 }
 
