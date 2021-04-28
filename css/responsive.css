@@ -149,6 +149,10 @@
 	}
 }
 @media (max-width: 767px){
+    
+    .carousel-control-next{
+        display: none;
+    }
     .started-btn a{
         padding: 12px 20px;
     }
