@@ -149,7 +149,9 @@
 	}
 }
 @media (max-width: 767px){
-    
+    #scrollUp{
+        display: none;
+    }
     .carousel-control-next{
         display: none;
     }
