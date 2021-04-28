@@ -412,7 +412,8 @@ body {
 }
 
 .training {
-    padding: 100px 0;
+    padding: 80px 0;
+    background-color: #f9f9f9;
 }
 
 .training .started-btn,
@@ -910,7 +911,7 @@ body {
 }
 
 .online_school_course_list_wrap {
-    background-color: #f9f9f9;
+  
     padding: 80px 0;
 }
 

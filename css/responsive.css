@@ -76,6 +76,17 @@
 	}
 }
 @media (max-width: 1024px){
+     .navbar-nav{
+        
+    }
+    .navbar-nav a{
+        display: block;
+        padding: 10px 0;
+        color: #333;
+    }
+     .navbar-brand img{
+        width: 260px;
+    }
 	.choose-img img {
     	width: 100%;
     	margin-top: 30px;
@@ -85,6 +96,8 @@
 	}
 }
 @media (max-width: 991px){
+    
+   
 	.hader-menu ul li {
 	    padding: 0px 10px;
 	}
@@ -136,8 +149,21 @@
 	}
 }
 @media (max-width: 767px){
+    .started-btn a{
+        padding: 12px 20px;
+    }
+    .navbar-brand img{
+        width: 200px;
+    }
+    .baner-image img{
+        top: 220px;
+        width: 70%;
+    }
+    .navbar-brand img{
+        width: 260px;
+    }
 	.baner-image img {
-	    display: none;
+	    
 	}
 	.baner-text h2 {
 	    font-size: 26px;
@@ -180,17 +206,16 @@
 	}
 }
 @media (max-width: 480px){
+   
+    
 	.baner-text h2 {
 	    font-size: 24px;
-	    line-height: 40px;
 	}
 	.section-text h2 {
 	    font-size: 20px;
-	    line-height: 30px;
 	}
 	.life-text p {
     	font-size: 13px;
-    	line-height: 23px;
     	width: 70%;
 	}
 	.footer-logo {
