@@ -130,18 +130,13 @@ body {
 }
 
 .baner-area {
-
-
-    padding: 160px 0;
+    padding: 120px 0;
     margin-bottom: 20px;
     background: url(images/baner.png) no-repeat center bottom;
     background-color: #20ADB4;
     background-size: cover;
 
 }
-
-
-
 .baner-image img {
     position: absolute;
     top: 20px;
